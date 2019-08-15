@@ -8,7 +8,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "dexdevs": "src/"
+            "dexdevs\\": "src/"
         }
     }
 }

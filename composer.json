@@ -1,8 +1,8 @@
 {
-    "name": "DEXDEVS/hello-world",
+    "name": "dexdevs/hello-world",
     "authors": [
         {
-            "name": "DEXDEVS"
+            "name": "dexdevs"
         }
     ],
     "require": {},
